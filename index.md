@@ -1,7 +1,7 @@
-### Welcome to Far
-## What is Far?
+## Welcome to Far
+### What is Far?
 Far does things
-## What does Far do?
+### What does Far do?
 things
-## What is far used for?
+### What is far used for?
 A minecraft server called Switchcraft
