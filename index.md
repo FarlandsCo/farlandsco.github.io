@@ -5,4 +5,4 @@ Far is owned by Eevvaann6 and used on the Minecraft server Switchcraft and Roblo
   ROBLOX: https://www.roblox.com/groups/7500623/Far-Co
   ABOUT: https://farlandsco.github.io/about/ (Wont refresh)
   
-### Far is ment for Switxhcraft and Roblox
+### Far is ment for Switchcraft and Roblox
